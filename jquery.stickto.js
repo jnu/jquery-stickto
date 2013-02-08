@@ -189,7 +189,8 @@
 				alignWith : null,
 				scrollIn : null,
 				scrollOut : null,
-				onScroll : null
+				onScroll : null,
+				meta : null
 			};
 			
 			// Put element as a direct child of <body/>, but save old parent and save former styles
