@@ -3,7 +3,7 @@ jquery-stickto
 
 jQuery plugin for fixing elements to other elements on scroll, while that element is in view.
 
-See [a melding of examples](http://joenoodles.com/widgets/stickto/ "examples") I used to test the plugin.
+See [a melding of examples](http://joenoodles.com/widgets/stickto/ "examples") I used to test the plugin. The source of this demo is available in `index.html` in this repo, and also on the website itself (obviously).
 
 
 Usage
@@ -79,5 +79,11 @@ Usage
 
   Makes the element unsticky. Returns element to the position where stickTo found it (inside the DOM) and returns to it its initial styles.
   
-  
+ 
+Author
+------
+Written in February 2013 by myself, Joe Nudell.
+Freely distributable under the MIT License. 
+
+None of the images used in the examples are mine; I found them on Google or Reddit. 
   
