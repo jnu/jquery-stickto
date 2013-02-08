@@ -10,7 +10,7 @@ Overview
 
 This plugin simplifies and enhances the design of consolidated webpages where multiple "screens" are contained within a single page. The plugin allows for certain elements on a page to bind to specific regions, fixing their positions on the background until the user has scrolled all the way through this region.
 
-This plugin is particularly valuable in text-heavy websites that seek to engage their audience more fully by displaying content-specific details, images, videos, animations, etc., as the user is reading about them. The concept is a natural extension and improvements of illustrations in books---And who doesn't love picture books?
+This plugin is particularly valuable in text-heavy websites that seek to engage their audience more fully by displaying content-specific details, images, videos, animations, etc., as the user is reading about them. The concept is a natural extension of and improvement upon illustrations in books. (And who doesn't love picture books?)
 
 Additionally, since this plugin allows for the definition of element-specific scroll handlers that will fire only when the element is fixed to the background (i.e., it is foregrounded; it is 'active'), this plugin can be used in the development of parallactic (three-dimensional) scroll effects.
 
