@@ -8,7 +8,7 @@ See [a melding of examples](http://joenoodles.com/widgets/stickto/ "examples") I
 Overview
 --------
 
-This plugin simplifies and enhances the design of consolidated wepbages where multiple "screens" are contained within a single page. The plugin allows for certain elements on a page to bind to specific regions, fixing their positions on the background until the user has scrolled all the way through this region.
+This plugin simplifies and enhances the design of consolidated webpages where multiple "screens" are contained within a single page. The plugin allows for certain elements on a page to bind to specific regions, fixing their positions on the background until the user has scrolled all the way through this region.
 
 This plugin is particularly valuable in text-heavy websites that seek to engage their audience more fully by displaying content-specific details, images, videos, animations, etc., as the user is reading about them. The concept is a natural extension and improvements of illustrations in books---And who doesn't love picture books?
 
