@@ -61,7 +61,7 @@ Usage
 
 - _init_
   
-  `$(element).stickTo('init', { /_ options _/ });`
+  `$(element).stickTo('init', { /* options */ });`
 
   Initialize the sticky element. There are other valid ways to call 'init':
   
@@ -85,7 +85,7 @@ Usage
 
 - _remove_
 
-  `$(element).remove();`
+  `$(element).stickTo('remove');`
 
   Makes the element unsticky. Returns element to the position where stickTo found it (inside the DOM) and returns to it its initial styles.
   
