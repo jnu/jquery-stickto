@@ -39,6 +39,12 @@
 				if(forceAll===undefined) forceAll = $.jn.stickTo.needsLoadScroll;
 				if($.jn.stickTo.needsLoadScroll) $.jn.stickTo.needsLoadScroll = false;
 				
+				if(forceAll) {
+					// Try to fix problem on Chrome refresh by refreshing
+					// bounds automatically on forced loads
+					$(window).stickTo('updateBounds');
+				}
+				
 				if($.jn.stickTo.didHScroll()) {
 					// Recalculate horizontal position on horizontal scroll.
 					// Note: only necessary for fixed elements. Improve performance
